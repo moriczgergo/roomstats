@@ -9,9 +9,9 @@
 #include <WiFiManager.h>
 
 // Comment out the following IPs if you don't want to use static IPs
-#define STATIC_IP IPAddress(192,168,20,150)
-#define STATIC_GATEWAY IPAddress(192,168,0,1)
-#define STATIC_MASK IPAddress(255,255,0,0)
+#define STATIC_IP IPAddress(192,168,2,139)
+#define STATIC_GATEWAY IPAddress(192,168,2,1)
+#define STATIC_MASK IPAddress(255,255,255,0)
 
 #define SEALEVELPRESSURE_HPA (1013.25)
 
